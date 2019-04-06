@@ -1,0 +1,14 @@
+
+
+    #contact-row{
+        padding-top: 10vh;
+        padding-bottom: 20vh;
+    }
+
+@media screen and (max-width: 767px) {
+   
+    .contact-link{
+        font-size: 1.4rem
+    }
+
+}
